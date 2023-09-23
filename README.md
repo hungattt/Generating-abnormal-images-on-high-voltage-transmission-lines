@@ -37,6 +37,7 @@ Ta sẽ được tìm contour bao quanh dị vật đó bằng thuật toán tì
 bây giờ ta cần xác định tọa độ polygon đó sau khi sinh lên ảnh gốc.Sau khi Add ảnh dị vật lên ảnh gốc thì Tọa độ I(0,0) của ảnh dị vật lúc này sẽ là tọa độ A(x-W, y-H) 
 trên ảnh gốc thì lúc này polygon sẽ có tọa độ mới là polygon=[(xo+x-W, yo+y-H), (x1+x-W, y1+y-H),…, (xn+x-W, yn+y-H)].Với tọa độ mới ta đã có thể gán nhãn tự động cho dị vật khi sinh lên ảnh gốc.
 <img src="6.jpg">
+
 ## Kết quả sinh ảnh cách điện thủy tinh vỡ mất bát
 <img src="sinhdivat.jpg">
 
@@ -44,3 +45,5 @@ trên ảnh gốc thì lúc này polygon sẽ có tọa độ mới là polygon=
 <img src="sinhxem.jpg">
 
 ## Kết quả nhận diện và phất hiện đối tượng bất thường sau khi training với tập ảnh sinh
+<img src="kq2.jpg">
+<img src="1a.jpg">
