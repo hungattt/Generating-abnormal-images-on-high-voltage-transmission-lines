@@ -23,8 +23,10 @@ cho thuật toán nhận dạng sau này.
 
 * B1. Từ vùng ảnh mà đối tượng được gán nhãn ở ví dụ này ta lấy là vùng ảnh dây điện ta chọn ngẫu nhiên 1 điểm O(x,y)  thuộc vùng ảnh đó.
 <img src="2.jpg">
+
 * B2. Bây giờ ta cần xác định vùng ảnh để ta Add ảnh dị vật lên ảnh gốc.
 <img src="3.png">
+
 * B3. Sử dụng thuật toán Add 2 ảnh, resize và xoay ảnh dị vật sao cho dị vật nhìn tự nhiên nhất , ta thu được kết quả.
 <img src="4.jpg">
 
@@ -32,6 +34,7 @@ cho thuật toán nhận dạng sau này.
 
 * B1
 <img src="5.jpg">
+
 * B2
 <img src="6.jpg">
 
