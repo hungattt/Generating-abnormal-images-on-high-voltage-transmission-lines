@@ -15,9 +15,10 @@ cho thuật toán nhận dạng sau này.
 -	Để sinh ảnh dị vật trên đường dây truyền tải điện ta cần một bức ảnh chụp thiết bị của đường dây truyền tải và ảnh dị vật loại bỏ nền mà mình muốn thêm vào :
 <img src="1.jpg">
 
--	Với việc sinh dị vật trên thiết bị của đường dây truyền tải điện ta hướng đến 2 mục tiêu chính :
-        - Sinh ảnh sao cho thật nhất có thể (sinh dị vật đúng trên thiết bị truyền tải điện là dây điện và cột điện,cách điện , kích thước dị vật không lớn hoặc nhỏ quá so với đối tượng mình sinh lên).
-        - Sinh được nhãn bo dị vật để ta không  phải gán lại nhãn dị vật sau sinh, điều này là rất quan trọng.
+- Với việc sinh dị vật trên thiết bị của đường dây truyền tải điện ta hướng đến 2 mục tiêu chính :
+  
+  - Sinh ảnh sao cho thật nhất có thể (sinh dị vật đúng trên thiết bị truyền tải điện là dây điện và cột điện,cách điện , kích thước dị vật không lớn hoặc nhỏ quá so với đối tượng mình sinh lên).
+  - Sinh được nhãn bo dị vật để ta không  phải gán lại nhãn dị vật sau sinh, điều này là rất quan trọng.
 
 **Để dạt được mục tiêu thứ nhất:**
 
